@@ -14,11 +14,11 @@
         compatible = "zmk,keymap";
 
         Base {
-            // -----------------------------------------------------------------------------------------
-            // |  TAB |  Q  |  W  |  F  |  P  |  B  |   |  J  |  L   |  U  |  Y  |  ;  | ESC |
-            // | CTRL |  A  |  R  |  S  |  T  |  G  |   |  M  |  N   |  K  |  L  |  ;  |  '   |
-            // | SHFT |  Z  |  X  |  C  |  D  |  V  |   |  K  |  H   |  ,  |  .  |  /  | BKSP  |
-            //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
+             -----------------------------------------------------------------------------------------
+             |  TAB |  Q  |  W  |  F  |  P  |  B  |   |  J  |  L   |  U  |  Y  |  ;  | ESC |
+             | CTRL |  A  |  R  |  S  |  T  |  G  |   |  M  |  N   |  K  |  L  |  ;  |  '   |
+             | SHFT |  Z  |  X  |  C  |  D  |  V  |   |  K  |  H   |  ,  |  .  |  /  | BKSP  |
+                                | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             label = "Base";
             bindings = <
